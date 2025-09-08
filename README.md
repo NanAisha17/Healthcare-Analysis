@@ -1,12 +1,29 @@
 # Healthcare Data Analysis Dashboard 
 
 ##  Project Overview
-This project presents an interactive Power BI dashboard built from a healthcare dataset.  
-The dashboard provides insights into patient demographics, treatment patterns, and healthcare outcomes, enabling data-driven decision-making for healthcare providers and policymakers.
+This project consists of two interactive dashboards designed in Power BI to analyze and visualize hospital and patient data. The dashboards focus on both clinical outcomes and patient adherence/satisfaction, providing valuable insights for healthcare administrators, clinicians, and policymakers.
+
+## Dashboards
+1. Hospital Admission & Clinical Outcomes Dashboard
+Purpose: Provides a snapshot of hospital admissions, length of stay, diagnosis trends, and discharge destinations.
+Key Insights:
+- Total patients admitted: 10,000+
+- Average length of stay: 16 days
+- Most common diagnoses: Injuries, respiratory problems, cardiac issues
+- Diagnosis with longest hospital stay
+- Discharge destinations (Home, Nursing Facility, Rehabilitation Center)
+
+2. Patient Adherence & Satisfaction Dashboard
+Purpose: Focuses on patient behavior post-discharge, including medication adherence, follow-up appointments, and care satisfaction.
+Key Insights:
+- Age group 51–70 had the highest adherence to medication and follow-up
+- Discharge location significantly impacts adherence rates
+- Care satisfaction levels by diagnosis are fairly balanced
+- Gender and age distribution trends among patients
 
 ## Tools & Technologies
-- Power BI – dashboard development and visualization
-- Excel – data source
+Power BI – dashboard development and visualization
+Excel – data source
 
 ##  Key Steps
 1. Data Cleaning  
